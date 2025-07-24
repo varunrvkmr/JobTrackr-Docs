@@ -10,3 +10,4 @@
 - Autofill
   - [Chrome Extension](complete_autofill.md)
   - [Backend](backend/routes/autofill_routes.md)
+- [Local -> EC2](ec2-guide.md)
