@@ -4,6 +4,7 @@
 - [Jobs](backend/routes/jobs_routes.md)
 - [Skills Comparison / Cover Letter](backend/routes/letter_generator_routes.md)
 - [Chat](backend/routes/chatbot_routes.md)
+- [RAG](rag.md)
 - [User Profile](backend/routes/user_profiles_routes.md)
 - [Authentication](authentication.md)  
 
