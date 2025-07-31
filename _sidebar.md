@@ -6,7 +6,10 @@
 - [Chat](backend/routes/chatbot_routes.md)
 - [RAG](rag.md)
 - [User Profile](backend/routes/user_profiles_routes.md)
-- [How Does the ML Work?](ml_functions.md)
+- How Does the ML Work?
+  - [Description of Backend](ml-service/backend_description.md)
+  - [ML-Service](ml-service/ml_service.md)
+  - [Training-Service](ml-service/training_service.md)
 - Autofill
   - [Chrome Extension](complete_autofill.md)
   - [Backend](backend/routes/autofill_routes.md)
