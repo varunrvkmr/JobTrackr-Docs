@@ -15,3 +15,5 @@
   - [Backend](backend/routes/autofill_routes.md)
 - [Database](backend/database.md)
 - [Local -> EC2](ec2-guide.md)
+- GitHub Commit Writeups
+  - [08/01/25](github-commits/08_01_2025.md)
